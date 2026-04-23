@@ -30,7 +30,6 @@ img {
 .header__inner {
   width: 100%;
   min-height: 80px;
-  padding: 0 22px;
   display: flex;
   align-items: center;
   justify-content: space-between;
